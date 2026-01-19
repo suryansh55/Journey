@@ -4,7 +4,6 @@ A modern, native iOS application for tracking workout progress, built entirely w
 
 This project demonstrates a local-first architecture that prioritizes performance and data persistence without external dependencies. It features dynamic data visualization to track strength progression over time.
 
-![App Screenshot](https://github.com/suryansh55/Journey/blob/main/ss1.jpeg)
 
 ## 🚀 Features
 
@@ -23,7 +22,11 @@ This project demonstrates a local-first architecture that prioritizes performanc
 * **Charting:** Swift Charts
 * **Architecture:** MVVM principles with declarative UI
 
+## 📸 Screenshots
 
+| Home Screen | Log Workout | Progress Charts |
+|:---:|:---:|:---:|
+| <img src="ss1.jpeg" width="250"> | | |
 
 ## 🔧 How to Run
 
